@@ -948,6 +948,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [SciPy](http://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 * [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+* [uncertainties](https://pythonhosted.org/uncertainties/) - Transparent uncertainties and error propagation.  
 * [zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
 ## Data Visualization
